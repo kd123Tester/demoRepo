@@ -1,5 +1,5 @@
 <h2 data-start="667" data-end="705">India Animal Feed Market&nbsp;</h2>
-<p data-start="707" data-end="937">The India animal feed market was valued at <strong data-start="750" data-end="777">USD 1.0 billion in 2024</strong> and is projected to reach <strong data-start="823" data-end="850">USD 2.2 billion by 2033</strong>, registering a <strong data-start="866" data-end="883">CAGR of ~9.0%</strong> over 2024-2032.&nbsp;</p>
+<p data-start="707" data-end="937">The India animal feed market was valued at <strong data-start="750" data-end="777">USD 1.0 billion in 2024</strong> and is projected to reach <strong data-start="823" data-end="850">USD 2.2 billion by 2033</strong>, registering a <strong data-start="866" data-end="883">CAGR of ~9.0%</strong> over 2024-2033.&nbsp;</p>
 <p data-start="939" data-end="1196">This growth is being driven by rising demand for animal protein (meat, eggs, dairy), increasing livestock population, urbanization, rising disposable incomes, changing dietary preferences, and policy/government support.&nbsp;</p>
 <h2 data-start="1203" data-end="1221">Regional Trends</h2>
 <p data-start="1223" data-end="1345">Understanding how different parts of India contribute and grow in this market is key. Here are the main regional insights:</p>
