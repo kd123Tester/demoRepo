@@ -1,5 +1,5 @@
 <h2 data-start="327" data-end="366">Electronic Ceramics Market: Overview</h2>
-<p data-start="368" data-end="817">Electronic ceramics (also called &ldquo;electroceramics&rdquo;) are advanced ceramic materials with special electrical, magnetic, optical or dielectric properties. They include dielectrics, piezoelectric, ferroelectric, semiconductors, pyroelectric, superconducting ceramics, etc. These are used in capacitors, sensors &amp; actuators, optoelectronic devices, data storage, power distribution, automotive electronics, medical devices, aerospace &amp; defense, and more.<br data-start="1056" data-end="1059" /> Other reports give slightly different numbers (e.g. Straits Research values it at USD 10.74 billion in 2024 growing to USD 19.58 billion by 2033 at 6.9% CAGR). &nbsp;The differences arise from definitions used, scope, and segments included.</p>
+<p data-start="368" data-end="817">Electronic ceramics (also called &ldquo;electroceramics&rdquo;) are advanced ceramic materials with special electrical, magnetic, optical or dielectric properties. They include dielectrics, piezoelectric, ferroelectric, semiconductors, pyroelectric, superconducting ceramics, etc. These are used in capacitors, sensors &amp; actuators, optoelectronic devices, data storage, power distribution, automotive electronics, medical devices, aerospace &amp; defense, and more.<br data-start="1056" data-end="1059" /> Other reports give slightly different numbers</p>
 <h2 data-start="1341" data-end="1359">Regional Trends</h2>
 <ul data-start="1361" data-end="2147">
 <li data-start="1361" data-end="1603">
@@ -32,7 +32,6 @@
 <p data-start="2761" data-end="2916">Ceramic coatings (thermal barrier coatings, electrical insulation coatings, wear‐ and corrosion‐resistant coatings)&nbsp;</p>
 </li>
 </ul>
-<p data-start="2921" data-end="3151"><em data-start="2921" data-end="2930">Trends:</em> Demand for <strong data-start="2942" data-end="2961">barium titanate</strong> and high dielectric constant ceramics is rising (e.g., for capacitors in electronic and automotive sectors). Also, miniaturization is pushing demand for thinner, high-performance materials.</p>
 </li>
 <li data-start="3153" data-end="3691">
 <p data-start="3156" data-end="3209"><strong data-start="3156" data-end="3174">By Application</strong><br data-start="3174" data-end="3177" /> Major applications include:</p>
@@ -56,7 +55,6 @@
 <p data-start="3352" data-end="3422">Others (e.g. RFIDs, MEMS etc.)&nbsp;</p>
 </li>
 </ul>
-<p data-start="3427" data-end="3691"><em data-start="3427" data-end="3436">Trends:</em> Capacitors remain a core application due to ubiquitous use in electronics; sensors &amp; actuators are growing fast (e.g. in automotive, IoT, healthcare). Optoelectronics (LEDs, display devices) and power devices (for EVs, renewable energy) are also gaining.</p>
 </li>
 <li data-start="3693" data-end="4359">
 <p data-start="3696" data-end="3757"><strong data-start="3696" data-end="3720">By End-User Industry</strong><br data-start="3720" data-end="3723" /> Key end-user sectors include:</p>
@@ -77,7 +75,6 @@
 <p data-start="3977" data-end="4056">Others (Telecom, Renewable Energy etc.)&nbsp;</p>
 </li>
 </ul>
-<p data-start="4061" data-end="4359"><em data-start="4061" data-end="4070">Trends:</em> Automotive is becoming a major driver (due to EVs, sensors, battery management). Medical devices demand is rising especially for biocompatible ceramics, miniaturization, reliability. Electronics continues to be a base demand, with pressure for smaller size, lower power, more reliability.</p>
 </li>
 </ol>
 <h2 data-start="4366" data-end="4392">Top Players (Companies)</h2>
